@@ -14,7 +14,7 @@ namespace TicketingSystem
                 Console.WriteLine("1. Read data from file");
                 System.Console.WriteLine("2. Create file from data");
                 System.Console.WriteLine("3. Exit application");
-
+                
                 var choice = Console.ReadLine();
 
                 if (choice == "1")
